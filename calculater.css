@@ -1,0 +1,16 @@
+.calculator{
+    border: 1px solid black;
+    text-align: center;
+    width: 45%;
+    padding: 16px;
+    margin: 20%;
+}
+.screen-calcul{
+    border: 1px solid #020202;
+    margin: 20px;
+    padding: 24px;
+    border-radius: 24px;
+    width: 350px;
+    margin-left: 78px;
+    margin-top: -14px;
+}
